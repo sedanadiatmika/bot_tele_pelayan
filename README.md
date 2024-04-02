@@ -1,1 +1,1 @@
-Telegram bot to handle menu ordering
+Telegram bot to handle menu ordering in a restaurant
